@@ -1,6 +1,12 @@
 # Hi, I'm henrique🧑‍💻
 <p><strong>I am passionate about learning new technologies.</strong><br>I'm a front-end student and I'm determined to excel at what I do!</p>
 
+## Contacts:
+
+<div> 
+<a href = "mailto:contato.henriquegbianchini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/henriquegbianchini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
 ## My Skills
 
 #### Main Stack:
@@ -25,16 +31,3 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href = "mailto:contato.henriquegbianchini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/henriquegbianchini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>
-
-
-
